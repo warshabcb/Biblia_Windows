@@ -19,6 +19,7 @@ Para activar el entorno virtual, debes ejecutar el script activate que se encuen
 .\mi_entorno\Scripts\activate
 ```
 ### Instalar Librerias
+Una vez activado el entorno virtual, puedes instalar paquetes usando pip, y estos se instalarán solo dentro de tu entorno virtual, sin afectar el resto del sistema. Por ejemplo, para instalar matplotlib, usarías:
 ```
 pip install matplotlib
 ```
