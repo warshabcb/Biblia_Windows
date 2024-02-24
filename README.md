@@ -33,7 +33,10 @@ pip install matplotlib
 
 
 # WSL Windows 
-
+### Apagar WSL
+```
+wsl --shutdown
+```
 ### Color termninal
 ```json
 {
