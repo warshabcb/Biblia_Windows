@@ -63,7 +63,7 @@ pip install matplotlib
 ### Alias
 ```
 alias Dkt='cd /mnt/c/Users/Warshab/Desktop'
-alias Dkt='cd /mnt/d/'
+alias d='cd /mnt/d/'
 ```
 
 
