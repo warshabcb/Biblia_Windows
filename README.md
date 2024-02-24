@@ -36,30 +36,29 @@ pip install matplotlib
 
 ### Color termninal
 ```json
-  {
-            "name": "Debian",
-            
-                "black": "#080808",
-                "red": "#ff5555",
-                "green": "#080808",
-                "yellow": "#ffcb6b",
-                "blue": "#82aaff",
-                "purple": "#c792ea",
-                "cyan": "#8be9fd",
-                "white": "#f8f8f2",
-                "brightBlack": "#545454",
-                "brightRed": "#ff6e6e",
-                "brightGreen": "#69ff94",
-                "brightYellow": "#ffcb6b",
-                "brightBlue": "#d6acff",
-                "brightPurple": "#ff92df",
-                "brightCyan": "#a4ffff",
-                "brightWhite": "#f8f8f2",
-                "background": "#080808",
-                "foreground": "#f8f8f2",
-                "selectionBackground": "#701718",
-                "cursorColor": "#eceff4"
-        }
+{
+    "name": "Debian",
+	"black": "#080808",
+	"red": "#ff5555",
+	"green": "#080808",
+	"yellow": "#ffcb6b",
+	"blue": "#82aaff",
+	"purple": "#c792ea",
+	"cyan": "#8be9fd",
+	"white": "#f8f8f2",
+	"brightBlack": "#545454",
+	"brightRed": "#ff6e6e",
+	"brightGreen": "#69ff94",
+	"brightYellow": "#ffcb6b",
+	"brightBlue": "#d6acff",
+	"brightPurple": "#ff92df",
+	"brightCyan": "#a4ffff",
+	"brightWhite": "#f8f8f2",
+	"background": "#080808",
+	"foreground": "#f8f8f2",
+	"selectionBackground": "#701718",
+	"cursorColor": "#eceff4"
+}
 ```
 
 
