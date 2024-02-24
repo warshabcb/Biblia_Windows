@@ -32,7 +32,7 @@ pip install matplotlib
 
 
 
-# Wsl Windows 
+# WSL Windows 
 
 ### Color termninal
 ```json
@@ -60,6 +60,12 @@ pip install matplotlib
 	"cursorColor": "#eceff4"
 }
 ```
+### Alias
+```
+alias Dkt='cd /mnt/c/Users/Warshab/Desktop'
+alias Dkt='cd /mnt/d/'
+```
+
 
 
 
