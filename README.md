@@ -37,6 +37,11 @@ pip install matplotlib
 ```
 wsl --shutdown
 ```
+
+### Montar Unidad Red
+```
+sudo mount -t cifs //192.168.1.x/Datos /mnt/router -o username=?,password=?
+```
 ### Color termninal
 ```json
 {
